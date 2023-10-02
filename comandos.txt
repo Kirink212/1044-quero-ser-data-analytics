@@ -1,2 +1,3 @@
 git add . -> adicionar em STAGE, ou seja, na fila do COMMIT os arquivos que ainda não foram adicionados
 git commit -m "Mensagem do commit" -> agrupar estas alterações em um mesmo COMMIT (pacote de mudanças); representa a versão do meu código
+git pull -> traz todas as alterações feitas por outros colaboradores ao repositório
